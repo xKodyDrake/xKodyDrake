@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Kody Drake
-### - 👀 I’m interested in ... learning to code to develop and make music for games
+### - 👀 I’m interested in ... learning how to develop and make music for games
 ### - 🌱 I’m currently learning ... Intro to Computer Science, Java, Python, CSS
 ### - 💞️ I’m looking to collaborate on ... Computer Science group project
 ### - 📫 How to reach me ... 1(308)562-9779 or 1(208)530-2046
