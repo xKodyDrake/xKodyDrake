@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @xKodyDrake
+## 👋 Hi, I’m Kody Drake
 ### - 👀 I’m interested in ... learning to code to develop and make music for games
 ### - 🌱 I’m currently learning ... Intro to Computer Science, Java, Python, CSS
 ### - 💞️ I’m looking to collaborate on ... Computer Science group project
